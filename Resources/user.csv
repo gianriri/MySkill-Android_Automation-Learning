@@ -1,4 +1,4 @@
-{username};{weight};{height};
-{John};75;185;
-{Paul};80;185;
-{Tony};80;190
+"username","weight","height"
+"John","75","185"
+"Paul","80","185"
+"Tony","80","190"

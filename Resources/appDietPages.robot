@@ -13,6 +13,7 @@ Start Session Apps
     ...                   appActivity=com.fghilmany.dietmealapp.ui.main.MainActivity
     ...                   autoGrantPermissions=true
     ...                   noReset=true
+    ...                   ignoreHiddenApiPolicyError=${True}
     Sleep                 1
 
 User Input Welcome Data
